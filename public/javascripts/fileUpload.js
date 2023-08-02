@@ -1,8 +1,11 @@
 FilePond.registerPlugin(FilePondPluginImagePreview);
 FilePond.registerPlugin(FilePondPluginImageResize);
 FilePond.registerPlugin(FilePondPluginFileEncode);
-const inputElement = document.querySelector('input[type="file"]');
-const pond = FilePond.create(inputElement);
+const inputElements = document.querySelectorAll('input[type="file"]');
+inputElements.forEach((inputElement) => {
+  FilePond.create(inputElement);
+});
+
 
 FilePond.setOptions({
     stylePanelAspectRatio: 150 / 100,
