@@ -19,7 +19,7 @@ authorSchema.pre(
         } else {
           next();
         }
-      } catch {
+      } catch(error) {
         next(error);
       }
 })
