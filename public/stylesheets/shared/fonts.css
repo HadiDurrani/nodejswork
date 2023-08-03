@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'MADE Voyager PERSONAL USE';
+    src: url('/fonts/MADEVoyagerPERSONALUSE-Medium.woff2') format('woff2'),
+        url('/fonts/MADEVoyagerPERSONALUSE-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kynthia';
+    src: url('/fonts/Kynthia.woff2') format('woff2'),
+        url('/fonts/Kynthia.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Voyager PERSONAL USE';
+    src: url('/fonts/MADEVoyagerPERSONALUSE-Bold.woff2') format('woff2'),
+        url('/fonts/MADEVoyagerPERSONALUSE-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Voyager PERSONAL USE';
+    src: url('/fonts/MADEVoyagerPERSONALUSE-Light.woff2') format('woff2'),
+        url('/fonts/MADEVoyagerPERSONALUSE-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Better Spring Script';
+    src: url('/fonts/BetterSpringScript.woff2') format('woff2'),
+        url('/fonts/BetterSpringScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Better Spring Script';
+    src: url('/fonts/BetterSpringScript.woff2') format('woff2'),
+        url('/fonts/BetterSpringScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HEAVEN MINE';
+    src: url('/fonts/HEAVENMINE.woff2') format('woff2'),
+        url('/fonts/HEAVENMINE.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Voyager PERSONAL USE';
+    src: url('/fonts/MADEVoyagerPERSONALUSE-Regular.woff2') format('woff2'),
+        url('/fonts/MADEVoyagerPERSONALUSE-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kynthia';
+    src: url('/fonts/Kynthia.woff2') format('woff2'),
+        url('/fonts/Kynthia.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Voyager PERSONAL USE';
+    src: url('/fonts/MADEVoyagerPERSONALUSE-Thin.woff2') format('woff2'),
+        url('/fonts/MADEVoyagerPERSONALUSE-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
