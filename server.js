@@ -6,7 +6,7 @@ const express = require('express')
 const app = express()
 const expressLayouts = require('express-ejs-layouts')
 const bodyParser = require('body-parser')
-const methodOverride  =require('method-override')
+let methodOverride  =require('method-override')
 
 const indexRouter = require('./routes/index')
 const authorRouter = require('./routes/authors')
